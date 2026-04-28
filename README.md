@@ -25,6 +25,7 @@ The notebook downloads monthly Yellow Taxi parquet files and the taxi zone looku
 ## How To Reproduce
 
 This project was built for Google Colab.
+Use a Google Colab High-RAM runtime. The full notebook can use roughly 30-50 GB of RAM because it loads and analyzes January through November 2025 Yellow Taxi trip records.
 
 1. Upload `main_notebook.ipynb` to Google Colab.
 2. Open `main_notebook.ipynb`.
