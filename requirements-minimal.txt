@@ -7,6 +7,5 @@ xgboost
 prophet
 statsmodels
 geopandas
-duckdb
+scipy
 pyarrow
-shap
