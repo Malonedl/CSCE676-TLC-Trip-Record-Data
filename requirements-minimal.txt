@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+networkx
+xgboost
+prophet
+statsmodels
+geopandas
+duckdb
+pyarrow
+shap
